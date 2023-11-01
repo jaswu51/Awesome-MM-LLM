@@ -12,8 +12,11 @@
 ---
 ## Surveys
 
-* **[Survey]** "A Survey on Multimodal Large Language Models", *arXiv, June 2023*.
+* **[MM-LLM]** "A Survey on Multimodal Large Language Models", *arXiv, June 2023*.
 [[Paper](https://arxiv.org/pdf/2306.13549.pdf)] [[Website](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)]
+* **[LAM]** "Sparks of Large Audio Models:A Survey and Outlook", *arXiv, June 2023*.
+[[Paper](https://arxiv.org/pdf/2308.12792.pdf)] [[Website](https://github.com/EmulationAI/awesome-large-audio-models)]
+
 
 ---
 ## Vision
