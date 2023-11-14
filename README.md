@@ -32,6 +32,12 @@ Unified Vision-Language Understanding and Generation", *arXiv, Jan 2022*.
 ", *arXiv, Apr 2023*.
 [[Paper](https://arxiv.org/abs/2304.10592)] [[Website](https://minigpt-4.github.io/)]
 
+* **[Instruct-BLIP]** "InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning", *arXiv, May 2023*.
+[[Paper](https://arxiv.org/abs/2305.06500)] [[Website](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)]
+* **[LLaVA]** "Visual Instruction Tuning", *arXiv, Apr 2023*.
+[[Paper](https://arxiv.org/abs/2304.08485)] [[Website](https://llava-vl.github.io/)]
+
+
 
 
 ---
@@ -56,4 +62,6 @@ Unified Vision-Language Understanding and Generation", *arXiv, Jan 2022*.
 
 ---
 ## Datasets
-
+* **[LAION-5B]**[[Website](https://laion.ai/blog/laion-5b/)]
+* **[LAION-COCO]**[[Website](https://laion.ai/blog/laion-coco/)]
+* **[MMC4]**[[Website](https://github.com/allenai/mmc4)]
